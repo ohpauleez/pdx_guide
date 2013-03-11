@@ -1,4 +1,4 @@
-This is a quick guide to downtown Portland, OR - from someone who lives in the neighborhood
+This is a quick guide to downtown Portland, OR - from someone who lives in the neighborhood.  
 This list is opinionated :)
 
 All places are VERY close to the venue.  If a location is marked with `**`, it means the combination walk+wait might be too long to hit up in between talks/lunch
@@ -11,7 +11,7 @@ Facts
  * You can take the MAX from the airport (stairs at the end of the ticket counters), to downtown for $2.50
    * Buy a ticket at the platform kiosk before boarding the train
  * A cab from the airport is going to be $30-$40
- * Almost every restaurant sources their food locally or owns and area farm.  This means:
+ * Almost every restaurant sources their food locally or owns an area farm.  This means:
    * You'll get some of the freshest foods ever
    * All meat dishes are instantly 10x more tasty
    * You can almost always find a gluten-free, vegan, or vegetarian option.
@@ -34,7 +34,7 @@ Paul's short list of things you should do
  * Get brunch or lunch at [Kenny and Zukes](http://www.kennyandzukes.com/)
  * Drink a flight of beer at [Deschutes](http://www.deschutesbrewery.com/locations/portland)
  * Get to [Andina](http://www.andinarestaurant.com/) for happy hour.
- * Pick up lunch or dinner at [The Original](http://originaldinerant.com/)
+ * Pick up lunch or dinner at [The Original](http://originaldinerant.com/) `**`
  * Grab a sandwich from [Lardo](http://lardopdx.com/menuwest.html)
  * Get lunch or snack at [the food carts](http://www.foodcartsportland.com/) at 10th and Alder.
  * If you're here with your significant other and you have some nice clothes, spend the money at [Higgins](http://www.higginsportland.com/) `**`
@@ -170,5 +170,5 @@ Other Portland guides
 -----------------------
 
  * [Zinesters Guide](http://pdxguide.org/)
- * More related to the east side, [XOXO Guide](http://2012.xoxofest.com/guide/) [Geek's guide](http://waxy.org/2011/09/geeks_guide_to_portland_2011/)
+ * More related to the east side: [XOXO Guide](http://2012.xoxofest.com/guide/), [Geek's guide](http://waxy.org/2011/09/geeks_guide_to_portland_2011/)
 
