@@ -1,6 +1,8 @@
 This is a quick guide to downtown Portland, OR - from someone who lives in the neighborhood
 This list is opinionated :)
 
+All places are VERY close to the venue.  If a location is marked with `**`, it means the combination walk+wait might be too long to hit up in between talks/lunch
+
 Facts
 -------
 
@@ -26,7 +28,7 @@ Paul's Shortlist of things you should do
    * If you don't see it on the menu, just ask for it.
  * Get a coffee at [Public Domain](http://www.publicdomaincoffee.com/)
  * Eat a donut from [Coco](http://cocodonuts.com/)
- * Eat the best Vietnamese food of your life at [luc lac](http://www.luclackitchen.com/)
+ * Eat the best Vietnamese food of your life at [luc lac](http://www.luclackitchen.com/) `**`
  * Get anything you want at [Cha Cha Cha](http://chachachapdx.com/)
  * Get brunch anywhere listed in the brunch section. (Mothers or Zeus are good choices)
  * Get brunch or lunch at [Kenny and Zukes](http://www.kennyandzukes.com/)
@@ -35,8 +37,8 @@ Paul's Shortlist of things you should do
  * Pick up lunch or dinner at [The Original](http://originaldinerant.com/)
  * Grab a sandwich from [Lardo](http://lardopdx.com/menuwest.html)
  * Get lunch or snack at [the food carts](http://www.foodcartsportland.com/) at 10th and Alder.
- * If you're here with your significant other and you have some nice clothes, spend the money at [Higgins](http://www.higginsportland.com/)
- * If you like Italian food, grab a cab to [Genoa](http://www.genoarestaurant.com/)
+ * If you're here with your significant other and you have some nice clothes, spend the money at [Higgins](http://www.higginsportland.com/) `**`
+ * If you like Italian food, grab a cab to [Genoa](http://www.genoarestaurant.com/) `**`
  * If we have a clear day, get up to [Washington Park // The Japanese Gardens](http://washingtonparkpdx.org/)
    * you'll be able to see Mt. Hood and St. Helens.
  * Check out [Powell's Books](http://www.powells.com/locations/powells-city-of-books/).  The Technical Book store even includes schematics for Tesla coils.
@@ -74,7 +76,7 @@ There are more brewpubs than you can shake a fist at
 
 ### Brunch
 
- * [Mothers](http://www.mothersbistro.com/)
+ * [Mothers](http://www.mothersbistro.com/) `**`
  * [Zeus](http://www.mcmenamins.com/1625-zeus-caf-at-crystal-hotel-menus)
  * [Isabel's @ The Pearl](http://www.isabelscantina.com/)
  * [Tasty n Alder](http://tastyntasty.com/alder/)
@@ -90,23 +92,27 @@ Forget whatever you heard, Voodoo doughnuts aren't that good.  They're mostly a 
  * [Saint Cupcake](http://www.saintcupcake.com/)
  * [Blue Star](http://www.yelp.com/biz/blue-star-donuts-portland)
  * [Voodoo](http://voodoodoughnut.com/)
- * [Salt and Straw Ice Cream](http://saltandstraw.com/)
+ * [Moreso](http://www.morsopdx.com/) - Gelato, coffee, great snacks
+ * [Salt and Straw Ice Cream](http://saltandstraw.com/) `**`
+ * [Ruby Jewel](http://www.rubyjewel.net/scoop-shop/) - SOOO Good
+ * [Tartberry](http://tartberryinc.com/) - mix and match your own frozen yogurt
+ * [Papa Haydn](http://www.papahaydn.com/) - a little pricey, but cakes/pies are completely worth every penny `**`
 
 ### Nightlife
 
  * [Backspace](http://www.backspace.bz/)
- * [The Doug Fir](http://www.dougfirlounge.com/)
- * [Holocene](http://www.holocene.org/)
+ * [The Doug Fir](http://www.dougfirlounge.com/) `**`
+ * [Holocene](http://www.holocene.org/) `**`
  * [Ground Kontrol](http://groundkontrol.com/)
- * [Pope House Bourbon Lounge](http://popehouselounge.com/) - one of the coolest, chill, bars/lounges.
- * [Wurst Bar](http://thewurstpdx.com/)
+ * [Pope House Bourbon Lounge](http://popehouselounge.com/) - one of the coolest, chill, bars/lounges. `**`
+ * [Wurst Bar](http://thewurstpdx.com/) `**`
  * [Crystal Ballroom](http://www.mcmenamins.com/crystalballroom)
  * Really any bar you see in downtown.  The closer you go to chinatown (towards the river), you'll find more night clubs and bro-bars.
    * your best bet is to stay downtown, the pearl, Knob Hill/Alphabet district.
 
 ### Portland Staples/Classics and American
 
- * [Smokehouse 21](http://smokehouse21.com/smokehouse-21/eat/) - best BBQ in Portland
+ * [Smokehouse 21](http://smokehouse21.com/smokehouse-21/eat/) - best BBQ in Portland `**`
  * [Zeus](http://www.mcmenamins.com/1625-zeus-caf-at-crystal-hotel-menus) - great dinner menu with a wide range of prices and a special wine and beer selection every night.
    * I eat here just about every other week.
 
@@ -138,7 +144,7 @@ Forget whatever you heard, Voodoo doughnuts aren't that good.  They're mostly a 
 
 ### Asian
 
- * [luc lac](http://www.luclackitchen.com/) - the best vietnamese food you'll ever have.  ever.
+ * [luc lac](http://www.luclackitchen.com/) - the best vietnamese food you'll ever have.  ever. `**`
  * [Thai Peacock](http://www.thaipeacockrestaurant.com/) - standard thai food.
  * [masu](http://masusushi.com/) - good sushi in the immediate downtown area.  A little pricey.
 
