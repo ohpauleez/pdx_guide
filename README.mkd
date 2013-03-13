@@ -3,6 +3,11 @@ This list is opinionated :)
 
 All places are VERY close to the venue.  If a location is marked with `**`, it means the combination walk+wait might be too long to hit up in between talks/lunch
 
+### Maps
+
+See all of these on [google maps](http://goo.gl/maps/JXfqT).
+Thanks to [@scottbale](https://twitter.com/scottbale) for the effort.
+
 Facts
 -------
 
