@@ -1,11 +1,11 @@
-This is a quick guide to downtown Portland, OR - from someone who lives in the neighborhood.
+This is a quick guide to downtown Portland, OR (and some other generally awesome stuff in other parts of the city)- from some folks who live(d) in the neighborhood.
 This list is opinionated :)
 
-All places are VERY close to the venue.  If a location is marked with `**`, it means the combination walk+wait might be too long to hit up in between talks/lunch
+Most places are VERY close to the venue.  If a location is marked with `**`, it means the combination walk+wait might be too long to hit up in between talks/lunch. If marked with `****` then you may want to visit outside the conf schedule
 
 ### Maps
 
-See all of these on [google maps](http://goo.gl/maps/JXfqT).
+See most of these on [google maps](http://goo.gl/maps/JXfqT).
 Thanks to [@scottbale](https://twitter.com/scottbale) for the effort.
 
 Facts
@@ -67,7 +67,7 @@ There is no order to the rest of the list.
  * [Case Study](http://www.casestudycoffee.com/) is part of PDX coffee collective that imports single origin, fair-trade coffee. Very beautiful shop.
  * [Barista](http://shop.baristapdx.com/) solid coffee shop, interesting imported coffees.
  * [Courier Coffee](http://www.couriercoffeeroasters.com/)
- * [Water Avenue](http://www.wateravenuecoffee.com/) if you want to get coffee in the Brewery District
+ * [Water Avenue](http://www.wateravenuecoffee.com/) if you want to get coffee in the Brewery District `****`
 
 ### Beer and drinks
 
@@ -81,8 +81,8 @@ There are more brewpubs than you can shake a fist at
  * [Rogue](http://rogue.com/locations/locations.php)
  * [Bailey's Taproom](http://www.baileystaproom.com/) - 20 taps, international, constantly rotating
  * Ringlers or The Annex - both are [McMenamins](http://www.mcmenamins.com/Pubs), an area empire of breweries, brewpubs, restaurants, and more
- * [Hair of the Dog](https://www.hairofthedog.com/) - *super good aged beers*
- * [Cascade Barrel House](http://www.cascadebrewingbarrelhouse.com/) - *Pacific Northwest barrel aged sour beers*
+ * [Hair of the Dog](https://www.hairofthedog.com/) - *super good aged beers* `****`
+ * [Cascade Barrel House](http://www.cascadebrewingbarrelhouse.com/) - *Pacific Northwest barrel aged sour beers* `****`
 
 ### Brunch
 
@@ -128,7 +128,7 @@ Forget whatever you heard, Voodoo doughnuts aren't that good.  They're mostly a 
  * [Smokehouse 21](http://smokehouse21.com/smokehouse-21/eat/) - best BBQ in Portland `**`
  * [Zeus](http://www.mcmenamins.com/1625-zeus-caf-at-crystal-hotel-menus) - great dinner menu with a wide range of prices and a special wine and beer selection every night.
    * I eat here just about every other week.
- * [Pine State Biscuts](http://www.pinestatebiscuits.com/) - Chicken Biscuit for $4.50
+ * [Pine State Biscuts](http://www.pinestatebiscuits.com/) - Chicken Biscuit for $4.50 `****`
  * [Little Big Burger](http://www.littlebigburger.com/) - Pretty much what the name says. Their truffle fries are fantastic!
 
 ### Quick and simple food
@@ -156,7 +156,7 @@ Nonetheless, here are some pizza places:
  * [Hot Lips](http://hotlipspizza.com/) - 10th and Irving (the streets are alphabetical)
    * There are locations all scattered throughout downtown
  * [Schmizza](http://schmizza.com/menu) - a chain that's here in the area. Pizza, apps, beer.
- * [Apizza Scholls](http://apizzascholls.com/)
+ * [Apizza Scholls](http://apizzascholls.com/) `****`
 
 ### Fancy Dinner
 
@@ -176,18 +176,18 @@ Nonetheless, here are some pizza places:
  * [East india company](http://www.eastindiacopdx.com/)
    * I have lived in a lot of major US cities, and this is still the best indian food I have ever had in the US
  * [Habibi](http://www.habibirestaurantpdx.com/) - solid and affordable lebanese
- * [Bollywood Theatre](http://www.bollywoodtheaterpdx.com/) Indian street food
- * [Nicholas Restaurant](http://nicholasrestaurant.com/) - Lebanese
- * [Marrakesh](http://www.marrakeshportland.com/) A "sit down" Moroccan restaurant (like on the floor and eat family style)
+ * [Bollywood Theatre](http://www.bollywoodtheaterpdx.com/) Indian street food `****`
+ * [Nicholas Restaurant](http://nicholasrestaurant.com/) - Lebanese `****`
+ * [Marrakesh](http://www.marrakeshportland.com/) A "sit down" Moroccan restaurant (like on the floor and eat family style) `****`
 
 ### Asian
 
  * [luc lac](http://www.luclackitchen.com/) - the best vietnamese food you'll ever have.  ever. `**`
  * [Thai Peacock](http://www.thaipeacockrestaurant.com/) - standard thai food.
  * [masu](http://masusushi.com/) - good sushi in the immediate downtown area.  A little pricey.
- * [Pok Pok](http://www.pokpokpdx.com/) Authentic Thai street food (dinner) or [Whiskey Soda Lounge](http://www.whiskeysodalounge.com/?id=107) (Pok Pok's bar across the street from Pok Pok)
- * [Sen Yai](http://www.pokpoksenyai.com/index.php?id=180) - Amazing noodles and steamed buns
- * [Pahdee](http://www.paadeepdx.com/) - Thai comfort food
+ * [Pok Pok](http://www.pokpokpdx.com/) Authentic Thai street food (dinner) or [Whiskey Soda Lounge](http://www.whiskeysodalounge.com/?id=107) (Pok Pok's bar across the street from Pok Pok) `****`
+ * [Sen Yai](http://www.pokpoksenyai.com/index.php?id=180) - Amazing noodles and steamed buns `****`
+ * [Pahdee](http://www.paadeepdx.com/) - Thai comfort food `****`
 
 
 Other Portland guides
